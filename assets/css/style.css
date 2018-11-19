@@ -93,11 +93,13 @@ a :hover {
     color: #4aaaa5;
     background-color: transparent;
     text-decoration: underline;
-input {
-    font-size: 40px;
-    height: 40px;
-    width: 900px;
 }
+
+input {
+        font-size: 40px;
+        height: 40px;
+        width: 900px;
+    }
 
 .block_1{
     background-color: darkgray;
@@ -124,3 +126,7 @@ input {
     margin-top: 0em;
     background-color: #777777;
 }
+/*#galaxy{
+    width: 42px;
+    height: 30px;
+}*/
